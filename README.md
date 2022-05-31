@@ -12,7 +12,6 @@ It's a project of Web Pack boiler plate
 - CSS3
 - JavaScript
 - Webpack
-- Linter
 
 ## Getting Started
 
