@@ -4,7 +4,7 @@
 It's a project of Web Pack boiler plate
 
 # View Live
-- To view a demo [@click Here](https://ritobrotomukherjee.github.io/webpack-set-up)
+- To view a demo [@click Here](https://ritobrotomukherjee.github.io/webpack-set-up/dist)
 
 ## Built With
 
